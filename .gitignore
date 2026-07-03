@@ -1,0 +1,6 @@
+node_modules/
+uploads/*.webm
+uploads/*.mp4
+uploads/*.json
+!uploads/.gitkeep
+.env
